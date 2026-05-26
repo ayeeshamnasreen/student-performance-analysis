@@ -1,0 +1,14 @@
+## Development Platform
+- Google Colab / Jupyter Notebook
+
+## Programming Language
+- Python 3
+
+## Python Libraries Used
+
+### 1. Pandas
+Used for:
+- Reading CSV files
+- Data analysis
+- Calculating averages and totals
+- Handling tabular data
